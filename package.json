@@ -1,0 +1,15 @@
+{
+  "name": "thingy",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "socket.io": "^4.7.2",
+    "http": "0.0.1-security"
+  }
+}
